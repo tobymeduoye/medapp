@@ -1,0 +1,6 @@
+#!/bin/bash
+matron.sh
+echo the following  nurses are available today
+date
+echo nrs tj
+echo nrs kaima
